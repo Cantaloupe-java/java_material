@@ -1,0 +1,15 @@
+﻿       OUTPUT : “Your Name” / push into git.
+       
+    1. Class, Obj, variable. (create separate class).
+    2. 1, method
+    3. 2, method with parameter.
+    4. 3, method should return result.
+    5. 4, First name in constructor and last name in method as step 4
+    6. 5, First name in constructor with parameter and last name in method as step 4
+    7. 6, If year equals your birth year print last name and birth year, if not print “wrong year”(all in method).
+    8. 7, if month equals your month print last name and birth year and month, if not print “wrong year”. (nested if).
+    9. 8, print length of output of line 8.
+    10. 9,  print output as N number of times (N=length of your output).
+    11. 10, create array and add output as each character.
+
+---------------------------------------------------------------------------------------------------------------------------
